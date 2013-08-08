@@ -1,0 +1,4 @@
+--tty
+--color
+--order rand
+--format <%= ENV["CI"] ? 'progress' : 'documentation'%>
