@@ -8,7 +8,7 @@ midfielder
 
 ## Installing
 
-We recommend using Rubinious or JRuby, as they offer native threads. You can still use MRI, but many of the performance gains will probably be negleted.
+We recommend using Rubinius or JRuby, as they offer native threads. You can still use MRI, but many of the performance gains will probably be neglected.
 
 ## Ideas
 
